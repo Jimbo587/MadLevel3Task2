@@ -9,4 +9,12 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="title_text">Portal</string>
+    <string name="subtitle">See below for all your portals</string>
+    <string name="title">Title</string>
+    <string name="Url">Url</string>
+    <string name="error">This portal is invalid and doesn\'t work</string>
+    <string name="add_portal">Add Portal</string>
+    <string name="Url_start">http://</string>
 </resources>
